@@ -12,13 +12,7 @@ An Arduino-based LED effects controller designed for arcade-style applications. 
 
 Check out the project in action: https://www.youtube.com/watch?v=rCO8ps2iSug
 
-<video src="docs/arcade-leds.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
-
-<video src="docs/arcade-leds-2.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+![Arcade led](./docs/arcade-led-control.gif)
 
 ## Hardware Requirements
 
